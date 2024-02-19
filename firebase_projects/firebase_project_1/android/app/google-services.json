@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450937056048",
+    "project_id": "jaydip-firebase-project-1",
+    "storage_bucket": "jaydip-firebase-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450937056048:android:651bf228b74fe3dec5f6f5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Pje2uEUpYMTPy1gLNMdf0Qv54HrYAn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
